@@ -2,14 +2,8 @@ This is your first step.
 
 ## Task
 
-In this step we will learn about installing Kubernetes Services to create cluster.
+Since this is our first step, and we have virtual environment, We will be using a `mini` version of kubernetes cluster which is `minikube` to get start with Kubernetes cluster setup.
 
-```
-sudo apt-get install \
-    apt-transport-https \
-    ca-certificates \
-    curl \
-    gnupg-agent \
-    software-properties-common
-  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
-```{{execute}}
+This will save installtion step for us.
+
+So start the cluster with: `minikube start`{{execute}}

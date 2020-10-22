@@ -1,6 +1,6 @@
 {
-  "title": "Hello World Scenario",
-  "description": "Your First Scenario",
+  "title": "K8s-In-30Mins",
+  "description": "You can quickly learn Kubernetes Basics in Just 30 Mins",
   "difficulty": "beginner",
   "time": "2 minutes",
   "details": {
@@ -20,7 +20,7 @@
   },
   "environment": {
     "uilayout": "terminal",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\n\u001b[m\r\n"
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\u001b[m"
   },
   "backend": {
     "imageid": "minikube"
